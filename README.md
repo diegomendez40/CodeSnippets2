@@ -27,6 +27,8 @@ Select a code snippet from the list and go to the respective subfolder.
 
 205 - Financial Simulations
 
+206 - Multithread
+
 ---
 
 ### 200 - Welcome Door Mat
