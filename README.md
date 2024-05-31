@@ -50,3 +50,7 @@ My own attempts at understanding vulnerabilities in embedded cryptography.
 ### 204 - Network Simulations (OMNeT++)
 
 ### 205 - Financial Simulations
+
+### 206 - Multithread
+
+Multithreaded Producer-Consumer Projects in C++ using shared buffers for financial data and synchronization primitives, thread safety, and data sharing between threads (C++17, std::mutex and std::condition_variable for synchronization between threads, Linux target, Google C++ Style Guide).
